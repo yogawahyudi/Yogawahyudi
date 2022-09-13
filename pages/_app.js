@@ -43,6 +43,7 @@ function MyApp({ Component, pageProps }) {
         <CssBaseline />
       <Head>
           <meta name="viewport" content="initial-scale=1, width=device-width" />
+          <title>Personal Website | Yoga Wahyudi</title>
       </Head>
       <UnderDevelopment open={open} onClick={()=>closeBackdrop()}/>
       <Layout>
