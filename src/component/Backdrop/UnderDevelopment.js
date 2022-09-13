@@ -16,10 +16,10 @@ const UnderDevelopment = () => {
         <Stack spacing={5}
         alignItems="center"
             justifyContent="center">
-            <Typography variant="h5">
+            <Typography variant="h5" align="center">
                 This website is under development, some functions may not work
             </Typography>
-            <Typography variant="body1">
+            <Typography variant="body1" align="center">
                 (click anywhere to continue)
             </Typography>
         </Stack>
