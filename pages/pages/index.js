@@ -30,12 +30,10 @@ export default function Home(props) {
                       <Stack direction="row" spacing={0.5}
                       alignItems="center"
                       >
-                        <Typography variant={{xs:"subtitle1", sm:"h5"}}>
+                        <Typography variant="subtitle1">
                           Hello, My name 
                         </Typography>
-                        <Typography variant={{xs:"h5", sm:"h3"}} sx={{
-                          fontStyle:"bold"
-                        }}>
+                        <Typography variant="h5">
                           Yoga Wahyudi
                         </Typography>
                       </Stack>
